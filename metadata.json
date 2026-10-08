@@ -1,0 +1,6 @@
+{
+  "name": "Hype Sport Communication",
+  "description": "Agence d'élite spécialisée dans le marketing sportif, le personal branding, le sponsoring et la gestion d'image des athlètes professionnels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
